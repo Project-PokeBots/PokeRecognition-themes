@@ -1,3 +1,4 @@
-## Welcome to the PokéRecognition Themes repository!
+Welcome to the Themes Respitory!
 
-### Here you can find interchangable themes for the [Pokémon Image Classifier](https://github.com/Project-PokeBots/PokeRecognition-API).
+Here you can find Themes for htmls.
+
