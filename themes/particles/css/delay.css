@@ -1,0 +1,16 @@
+span::before{
+    content: "Enter an image url and click submit to get the Pokémon's name.";
+    opacity: 0;
+    animation: 2s fade_in;
+    animation-fill-mode: forwards;
+    transition: opacity 1.5s;
+}
+
+@keyframes fade_in{
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
